@@ -1,16 +1,16 @@
-# Projekauftrag - G-Lernsystem
+# Projektauftrag - G-Lernsystem
 
 ## Auftraggeber
 
-- Projektauftraggeber: Haslinger Markus
+- Projektauftraggeber: Markus Haslinger
 
 ## Projekthintergrund
 
-- Das programmieren lernen ist leider sehr oft sehr trocken, von Syntax merken bis hin zu ganze Designs teilweise auswendig lernene, kann es echt nervig sein. Deswegen hatten wir die Idee, das Programmieren lernen einfacher zu machen. Dies geschieht durch gamingfizieren von Syntax oder auch Designs. Hiermit kann man durch lustige Kurse effizienter und spasiger programmieren lernen.
+Das Programmierenlernen ist leider sehr oft trocken. Vom Merken der Syntax bis hin zum Auswendiglernen ganzer Designs – es kann wirklich nervig sein. Deshalb hatten wir die Idee, das Programmierenlernen einfacher und angenehmer zu gestalten. Dies soll durch die Gamifizierung von Syntax und Designs erreicht werden. Dadurch können die Lernenden in lustigen Kursen effizienter und mit mehr Spaß programmieren lernen.
 
 ## Projektergebnis
 
-- Eine website auf der das Lernen von programmieren durch gamingfizierte Kurse erfolgt. Diese wird verständlich und lustig aufgebaut sein - es wird Belohnungen, ein Scoreboard und natürlich ein Level System geben. Von Programmier Competitions bis hin zu Verwaltungsysteme für Lehrer wird so ziemlich alles für das Programmieren lernen dabei sein :). 
+- Eine Website, auf der das Programmieren durch gamifizierte Kurse erlernt werden kann. Diese wird verständlich und unterhaltsam aufgebaut sein. Es wird Belohnungen, ein Scoreboard und natürlich ein Level-System geben. Von Programmierwettbewerben bis hin zu Verwaltungssystemen für Lehrer wird alles dabei sein, was das Programmierenlernen fördert. :)
 
 ## Projektstart
 
@@ -18,10 +18,10 @@
 
 ## Projektende
 
-Gegen Ende 5. Klasse
+Ende der 5. Klasse
 
 ## Meilensteine
 
 | Ergebnis                                               | Soll-Termin                          |
 |--------------------------------------------------------|--------------------------------------|
-| Aufsetzung einer komfortablen Entwicklungsumgebung                  | 19.09.2024                                |
+| Aufsetzen einer komfortablen Entwicklungsumgebung       | 19.09.2024                          |
