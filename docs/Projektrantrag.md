@@ -6,7 +6,7 @@
 
 ## Projekthintergrund
 
-Das Programmierenlernen ist leider sehr oft trocken. Vom Merken der Syntax bis hin zum Auswendiglernen ganzer Designs – es kann wirklich nervig sein. Deshalb hatten wir die Idee, das Programmierenlernen einfacher und angenehmer zu gestalten. Dies soll durch die Gamifizierung von Syntax und Designs erreicht werden. Dadurch können die Lernenden in lustigen Kursen effizienter und mit mehr Spaß programmieren lernen.
+- Das Programmierenlernen ist leider sehr oft trocken. Vom Merken der Syntax bis hin zum Auswendiglernen ganzer Designs – es kann wirklich nervig sein. Deshalb hatten wir die Idee, das Programmierenlernen einfacher und angenehmer zu gestalten. Dies soll durch die Gamifizierung von Syntax und Designs erreicht werden. Dadurch können die Lernenden in lustigen Kursen effizienter und mit mehr Spaß programmieren lernen.
 
 ## Projektergebnis
 
