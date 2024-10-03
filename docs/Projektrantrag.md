@@ -10,7 +10,7 @@
 
 ## Projektergebnis
 
-- Eine 2D C++ GameEngine, die effizienter, simpler und einfacher zu bedienen sind als die "Fetten" GameEngines, diese sind auch oft overkill, wenn man genau weiß was man machen will. 
+- Eine 2D C++ GameEngine, die effizienter, simpler und einfacher zu bedienen sind als die "Fetten" GameEngines, diese sind auch oft overkill, wenn man genau weiß was man machen will. Diese Engine hebt sich ab im Sinne von komplett neuen Features (Deterministisches Locktyping), Konzentration NUR auf Sprites (Unglaubliche Performance), Puren C++. 
 
 ## Projektstart
 
@@ -22,11 +22,4 @@ Ende der 5. Klasse
 
 ## Meilensteine
 
-| Ergebnis                                               | Soll-Termin                          |
-|--------------------------------------------------------|--------------------------------------|
-| Aufsetzen einer komfortablen Entwicklungsumgebung       | 19.09.2024                          |
-| Pläne schmieden für das erstellen von Multiplayer & Audio System      | 8.10.2024                     |
-| Erste Umsetzung des Mutliplayers & Tests                    | 15.10.2024 
-| Erste Umsetzung des Audio Sstem & Tests                    | 15.10.2024 
-
-
+Siehe <Meilensteine.md>
